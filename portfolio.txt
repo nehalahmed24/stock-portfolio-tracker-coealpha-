@@ -1,0 +1,5 @@
+Stock: AAPL
+Quantity: 2
+Investment: 360
+Total investment: 360
+--------------------
